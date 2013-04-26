@@ -1,2 +1,3 @@
-mix of custom Painterly +tweaks (d1.0)
-uberfuzzy 2013-04-26
+Uberfuzzy's Mix-and-match pack
+uberfuzzy 2013-04-26 LIVE!
+@github:uberfuzzy/fzypack
