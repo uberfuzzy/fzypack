@@ -1,0 +1,2 @@
+mix of custom Painterly +tweaks (d1.0)
+uberfuzzy 2013-04-26
