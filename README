@@ -1,0 +1,9 @@
+This is my hodgepodge minecraft texture pack.
+
+This repo used to be home to a stitching framework I wrote to facilitate fabricating terrain.png and items.png from individual .png files overlayed to the default skin.
+
+When MC 1.5 released, this was no longer needed, as the game would use the "unstitched" version directly, so this repo was wiped, and now is just the version control of my person pack.
+
+Most of the contents are from PainterlyPack, hand currated parts there of. Kudos to them.
+A few bits are from other various sites/packs. Credits given where known. (if I'm not crediting you for something you did, let me know)
+A few bits are hand made, or derived from PP/others (better ice ores). Feel free to take them and do what ever.
